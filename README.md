@@ -74,3 +74,12 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Thanks to the Flutter community for providing excellent resources and inspiration.
+
+## Contact
+For any inquiries or support:
+
+Nawaf Mohammed Alghodyah
+
+1nawaf.dev@gmail.com
+
+https://www.linkedin.com/in/nawaf-al-ghodyah-781a4b247/
